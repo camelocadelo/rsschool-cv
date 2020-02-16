@@ -62,3 +62,10 @@ implemented in C for bringing various sensors to function.
 
 B.S. in Computer Science 
 
+### Relevant Courses
++ **[Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)**
++ **[Знакомство с HTML и CSS](https://htmlacademy.ru/courses/basic-html-css)**
++ **Software Engineering**
++ **Performance and Data Structures**
++ **Algorithms**
+
