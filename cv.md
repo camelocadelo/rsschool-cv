@@ -69,3 +69,10 @@ B.S. in Computer Science
 + **Performance and Data Structures**
 + **Algorithms**
 
+### Languages
+
++ **Kazakh:** native
++ **Russian:** fluent
++ **English:** fluent
++ **Turkish:** intermediate 
+
