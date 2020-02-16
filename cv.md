@@ -55,3 +55,10 @@ agement system as a course project. Technology stack used: HTML, CSS, VueJS
 The simulation of smart car based on Arduino Mega and breadboard.The code is
 implemented in C for bringing various sensors to function.
 
+
+### Education
+
+**Nazarbayev University**
+
+B.S. in Computer Science 
+
